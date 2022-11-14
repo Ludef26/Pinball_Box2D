@@ -1,0 +1,89 @@
+﻿  ModuleRender.cpp
+E:\pinball\Pinball_Source\ModuleRender.cpp(97,36): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleRender.cpp(98,36): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleRender.cpp(110,23): warning C4244: '*=': conversión de 'double' a 'int'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleRender.cpp(111,23): warning C4244: '*=': conversión de 'double' a 'int'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleRender.cpp(144,23): warning C4244: '*=': conversión de 'double' a 'int'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleRender.cpp(145,23): warning C4244: '*=': conversión de 'double' a 'int'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleRender.cpp(169,137): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleRender.cpp(169,108): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleRender.cpp(169,79): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleRender.cpp(169,50): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleRender.cpp(171,98): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleRender.cpp(171,80): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleRender.cpp(171,62): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleRender.cpp(171,44): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  ModuleSceneIntro.cpp
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(246,26): warning C4305: '=': truncamiento de 'double' a 'float'
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(319,49): warning C4244: 'argumento': conversión de 'int' a 'float32'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(394,36): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(395,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(396,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(399,36): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(400,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(403,36): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(482,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(483,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(487,48): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(487,36): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(489,33): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(490,33): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(494,48): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(494,36): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(496,34): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(497,34): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(501,48): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(501,36): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(505,102): warning C4244: 'argumento': conversión de 'float32' a 'int'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(505,64): warning C4244: 'argumento': conversión de 'float32' a 'int'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(582,45): warning C4244: 'argumento': conversión de 'TYPE' a 'TYPE'; posible pérdida de datos
+          with
+          [
+              TYPE=int
+          ]
+          and
+          [
+              TYPE=float
+          ]
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(582,30): warning C4244: 'argumento': conversión de 'TYPE' a 'TYPE'; posible pérdida de datos
+          with
+          [
+              TYPE=int
+          ]
+          and
+          [
+              TYPE=float
+          ]
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(584,18): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(587,70): warning C4244: 'argumento': conversión de 'TYPE' a 'int'; posible pérdida de datos
+          with
+          [
+              TYPE=float
+          ]
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(587,47): warning C4244: 'argumento': conversión de 'TYPE' a 'int'; posible pérdida de datos
+          with
+          [
+              TYPE=float
+          ]
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(591,138): warning C4244: 'argumento': conversión de 'TYPE' a 'int'; posible pérdida de datos
+          with
+          [
+              TYPE=float
+          ]
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(591,96): warning C4244: 'argumento': conversión de 'TYPE' a 'int'; posible pérdida de datos
+          with
+          [
+              TYPE=float
+          ]
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(591,57): warning C4244: 'argumento': conversión de 'TYPE' a 'int'; posible pérdida de datos
+          with
+          [
+              TYPE=float
+          ]
+E:\pinball\Pinball_Source\ModuleSceneIntro.cpp(591,34): warning C4244: 'argumento': conversión de 'TYPE' a 'int'; posible pérdida de datos
+          with
+          [
+              TYPE=float
+          ]
+  Generando código...
+  SDL Game.vcxproj -> E:\pinball\Pinball_Source\Debug\Box2D - Tutorial.exe

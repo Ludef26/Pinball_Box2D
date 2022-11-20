@@ -1,4 +1,4 @@
-Pokemon Pinball Game made in SDL2 and Box2D
+Pokemon Pinball Game made in SDL2 and Box2D by Luis Fernández Díaz and Juan De Dios García Salguero
 
 
 # **Controls**
@@ -40,3 +40,4 @@ Try to reach 20.000 points.
 This game has been designed with box2D and SDL.
 
 First of all we loaded the background map to be able to adjust the hitboxes of all the elements, we had some problem since hitboxes got in the way but they were fixed quickly. 
+
